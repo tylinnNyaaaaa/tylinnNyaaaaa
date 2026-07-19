@@ -1,4 +1,4 @@
-# Hi, I'm Tyler Lin 👋
+# Hi, I'm Ty Lin 👋
 
 🎓 Undergraduate @ **National Yang Ming Chiao Tung University (NYCU)**  
 🔬 Research Assistant · Computational Photography Lab · Since Mar 2026  
