@@ -1,8 +1,8 @@
 # Hi, I'm Ty Lin 👋
 
 🎓 Undergraduate @ **National Yang Ming Chiao Tung University (NYCU)**  
-🔬 Research Assistant · Computational Photography Lab · Since Mar 2026  
-🛠️ Member · Software Development Club (SDC), NYCU  
+🔬 Undergraduate researcher · Computational Photography Lab · Since Mar 2026  
+🛠️ HPC Team Member · Software Development Club (SDC), NYCU · Since Sep 2025
 
 ---
 
@@ -11,9 +11,8 @@
 I'm a CS undergrad passionate about pushing hardware to its limits and teaching machines to see.  
 Currently diving deep into **HPC**, **computer vision**, and **machine learning** — from low-level CUDA kernels to high-level model training.
 
-- 🔭 Working on: parallel computing & CV research at NYCU CPL
-- 🌱 Learning: deep learning architectures, GPU optimization
-- 💬 Ask me about: C/C++, CUDA, parallel programming, or getting started with CV
+- 🔭 Working on: parallel computing & CV research at NYCU 
+- 🌱 Learning: deep learning architectures, diffusion model
 
 ---
 
